@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @diegopt
+- 👋 Hola soy Diego
+- Soy estudiante de programacion 💻
 
 <!---
 diegopt/diegopt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
